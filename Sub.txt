@@ -1,5 +1,5 @@
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@63.141.252.203:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@50.7.5.83:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@20.192.21.49:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@63.141.252.203:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@50.7.5.83:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@4.240.39.199:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
