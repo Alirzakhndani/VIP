@@ -1,5 +1,73 @@
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@63.141.252.203:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@50.7.5.83:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
-vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@4.240.39.199:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#ghtun
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@63.141.252.203:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@50.7.5.83:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@94.130.50.12:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
+vless://c1fc097e-d362-4e9b-9edf-2c139563f6f7@20.192.21.49:443?encryption=none&security=tls&type=xhttp&mode=packet-up&sni=cautious-cod-7vxpw9797w4wcp9j5-443.app.github.dev&path=%2F#VIP
+
+
+✅ پایدار و متصل
+
+vless://71d11816-51b5-4a79-95db-842272f83a70@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%40filembad
+
+vless://71d11816-51b5-4a79-95db-842272f83a70@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%40filembad
+
+vless://71d11816-51b5-4a79-95db-842272f83a70@snapp.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M2.snllshop.ir#%40filembad
+
+vless://71d11816-51b5-4a79-95db-842272f83a70@anten.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M3.snllshop.ir#%40filembad
+
+vless://3b71be10-6c10-45e9-95e6-e469f7a0ae63@aparatrat1.info:2083?encryption=none&type=tcp#%40filembad
+
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40filembad
+
+دریافت کانفیگ رایگان اختصاصی
+📂 NapsternetV Config
+✅ پایدار و متصل @filembad
+
+دریافت کانفیگ رایگان اختصاصی
+🔐 Config & Proxy @filembad
+✅ پایدار و متصل
+
+vless://ec8ed3e2-f2b9-42eb-add4-bc5c88d69caa@cdn.tiopmfikg.ir:8080?path=%2F&security=none&encryption=none&host=cdn.tiopmfikg.ir&type=ws#%40filembad
+
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40filembad
+
+vless://0c480022-24b5-4a3f-bf5f-bb9f6c53c548@185.143.233.5:2083?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#%40filembad
+
+vless://Troll_hastam@94.130.50.12:443?encryption=none&security=tls&sni=kubernetes.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=resonant-centaur-607d26.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%40filembad
+
+vless://Troll_hastam@95.216.69.37:443?encryption=none&security=tls&sni=kubernetes.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=resonant-centaur-607d26.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%40filembad
+
+vless://Troll_hastam@94.130.70.160:443?encryption=none&security=tls&sni=kind.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=resonant-centaur-607d26.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%40filembad
+
+دریافت کانفیگ رایگان اختصاصی
+📂 NapsternetV Config
+✅ پایدار و متصل @filembad
+
+دریافت کانفیگ رایگان اختصاصی
+📂 NapsternetV Config
+✅ پایدار و متصل @filembad
+
+دریافت کانفیگ رایگان اختصاصی
+کانفیگ بفرستید که بالای پنج گیگ حجم داشته باشه
+خودکار 20گیگ شارژش میکنه
+کانفیگا چهار برابر میشن
+
+@coonfig_v2ray_bot
+بقران پول کانفیگ ندید
+سلام دوستان کارایی ربات زیر👇👇
+
+استعلام حجم پینگ لوکشین
+
+استعلام از امن بودن کانفیگ 
+
+و افزایش حجم کانفیگ 
+
+دوستان نکته مهم: 
+کانفیگ غیر فعال که کار نمیکنه نفرستید که ربات نمیتونه کاری انجام بده
+
+@coonfig_v2ray_bot
+ناموسن زورم میاد هنوز پول کانفیگ میدید خب بربد کانفیگ های که الان خریدین و فعاله رو بفرستید تو ربات زیر شارژ کنه رایگان 
+
+@coonfig_v2ray_bot
+
+کانفیگ رایگان و غیر فعال نفرست شارژ نمیشه
